@@ -1,0 +1,19 @@
+.buttonsContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    margin-left: 70px;
+}
+
+.editableSpanContainer {
+    /*display: flex;*/
+    /*margin-left: 70px;*/
+    /*gap: 10px;*/
+    /*margin-bottom: 16px;*/
+    display: flex;
+    align-items: center; /* вертикальное выравнивание */
+    margin-left: 70px;
+    gap: 10px;
+    margin-bottom: 16px;
+    min-height: 36px; /* установи под высоту input */
+}

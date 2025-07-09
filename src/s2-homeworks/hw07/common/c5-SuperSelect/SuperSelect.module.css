@@ -1,0 +1,24 @@
+.select {
+    border: 1px solid #c2c2c2;
+    border-radius: 2px;
+    width: 165px;
+    height: 24px;
+    background: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    color: #000;
+}
+
+.select:focus {
+    box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
+    background: #fff;
+    border: 1px solid #c2c2c2;
+    border-radius: 2px;
+    outline: none;
+
+}
+
+
+.option:hover {
+    background: #1e90ff;
+}
